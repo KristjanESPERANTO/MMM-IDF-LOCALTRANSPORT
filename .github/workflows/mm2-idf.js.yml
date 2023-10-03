@@ -28,6 +28,6 @@ jobs:
         cache: 'npm'
     - run: npm install -G yarn
     - run: yarn
-    - run: yarn build
+    # Build is handled in post install phase
     - run: yarn lint
     - run: yarn test
