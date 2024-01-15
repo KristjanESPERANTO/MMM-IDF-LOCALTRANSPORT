@@ -1,7 +1,7 @@
 {
   "name": "MMM-IDF-LOCALTRANSPORT",
   "version": "1.0.0",
-  "description": "Local transport in IDF based on API module for MagicMirror",
+  "description": "Local transport in IDF based on API module for MagicMirror²",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/djey47/MMM-IDF-LOCALTRANSPORT"
