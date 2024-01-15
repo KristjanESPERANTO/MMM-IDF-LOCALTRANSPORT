@@ -46,6 +46,7 @@
     "dev-server": "nodemon --watch ./tools/dev-server ./tools/dev-server/dev-server.js"
   },
   "dependencies": {
+    "ansis": "^2.0.3",
     "axios": "^0.16.2",
     "classnames": "^2.2.5",
     "html-beautify": "^1.0.4",
